@@ -2,7 +2,7 @@
 import mongoose from 'mongoose';
 import app from './app';
 import config from './config';
-import { logger, errorlogger } from './share/logger';
+import { logger, errorlogger } from './shared/logger';
 import { Server } from 'http';
 
 process.on('uncaughtException', error => {
