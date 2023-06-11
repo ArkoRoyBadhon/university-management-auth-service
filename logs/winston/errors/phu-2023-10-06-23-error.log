@@ -1,0 +1,36 @@
+Sat Jun 10 2023 23:11:8 [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+Sat Jun 10 2023 23:12:19 [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+Sat Jun 10 2023 23:12:30 [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]
