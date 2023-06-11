@@ -105,3 +105,27 @@ Sun Jun 11 2023 18:39:41 [PH] error: globalErrorHandler ~ [
   }
 ]
 Sun Jun 11 2023 18:44:9 [PH] error: Academic semester is already exist!
+Sun Jun 11 2023 18:47:31 [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Sun Jun 11 2023 18:47:35 [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
